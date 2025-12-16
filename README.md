@@ -2,7 +2,7 @@
 Juego de Laberinto Automático
 Este es un juego de laberinto interactivo desarrollado en Python con la librería tkinter. El propósito principal es demostrar la generación de un laberinto con elementos dinámicos y, sobre todo, su resolución automática mediante un algoritmo de búsqueda de fuerza bruta.
 
-# Características Clave
+# Características 
 - Generación Aleatoria: Crea un laberinto de tamaño cuadrado (NxN) con una entrada, una salida y caminos al azar.
 - Resolución por Fuerza Bruta (DFS): Al presionar "Resolver Laberinto", el programa utiliza un algoritmo recursivo (profundidad primero, o DFS) para encontrar la solución.
 - Muestra el Camino: Visualiza el recorrido del algoritmo en tiempo real, marcando las casillas visitadas antes de llegar a la salida.
